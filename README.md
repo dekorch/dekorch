@@ -31,6 +31,8 @@
 <p> 
  <ul>
 <li>  <a href="?">Webshop testing</a>  </li>
+<li>  <a href="?">Check-list</a>  </li> 
+<li>  <a href="?">Test-case</a>  </li>
 <li>  <a href="?"> REST and SOAP API testing via Postman </a>   </li>
 <li> <a href="?">MySQL</a>   </li>
 <li>  <a href="?">PostgresSQL</a>  </li>
