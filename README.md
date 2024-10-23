@@ -10,6 +10,7 @@
 <li>📖 В свободное время изучаю создание сайтов на React</li>
 <li>📙 Мое резюме <a href="https://spb.hh.ru/resume/d955f268ff0db979ef0039ed1f79544e6b744e">тут</a></li> 
 </ul>
+<p></p>
 <h2>Какие инструменты я использую</h2>
 <p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" title="jira" alt="jira" width="40" height="40"/>
