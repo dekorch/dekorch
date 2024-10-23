@@ -4,7 +4,6 @@
 <h2>Некоторые факты обо мне: </h2>
 <ul>
 <li>😌 Закончил курсы ручного тестирования</li>
- <img align="right" src="https://i.pinimg.com/originals/c5/ef/b4/c5efb4d3fe9c3aea5e32fa31575869a4.gif" height="245">
 <li>🧐 Сейчас я изучаю автоматизирование тестов с помощью Java</li>
 <li>👉 Ознакомиться с моими кейсами можно по ссылке: <a href="https://github.com/dekorch">Github</a></li> </li>
 <li>📖 В свободное время изучаю создание сайтов на React</li>
@@ -26,6 +25,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="40" height="40"/>
 <img src="https://cdn-icons-png.flaticon.com/512/919/919827.png" title="HTML5" alt="HTML5" width="40" height="40"/>
 </p>
+<img align="right" src="https://i.pinimg.com/originals/c5/ef/b4/c5efb4d3fe9c3aea5e32fa31575869a4.gif" height="245">
 <h2>Список артефактов: </h2>
 <p> 
  <ul>
